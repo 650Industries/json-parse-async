@@ -1,0 +1,27 @@
+{
+  "name": "json-parse-async",
+  "version": "1.0.0",
+  "description": "A Promise-based interface to asynchronously parse a JSON file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/650Industries/json-parse-async.git"
+  },
+  "keywords": [
+    "json",
+    "parse",
+    "async"
+  ],
+  "author": "exponent.team@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/650Industries/json-parse-async/issues"
+  },
+  "homepage": "https://github.com/650Industries/json-parse-async#readme",
+  "dependencies": {
+    "instapromise": "^1.0.0"
+  }
+}
